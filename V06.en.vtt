@@ -1,0 +1,182 @@
+WEBVTT
+
+00:00:01.000 --> 00:00:01.721
+Part six:
+
+00:00:01.771 --> 00:00:05.150
+putting the reimagination into practice.
+
+00:00:06.700 --> 00:00:12.370
+The journey has clear milestones, and
+stakeholders can work on them in parallel.
+
+00:00:12.420 --> 00:00:14.229
+Adopt the standard events.
+
+00:00:14.279 --> 00:00:18.806
+Bring one exemplar department or scheme
+onto iFIX or an adapter.
+
+00:00:18.856 --> 00:00:24.669
+Make iFIX the primary channel between the
+finance department and line departments.
+
+00:00:24.719 --> 00:00:27.100
+Automate utilisation certificates.
+
+00:00:27.150 --> 00:00:31.748
+Move accounting and audit onto the
+platform and publish accounts.
+
+00:00:31.798 --> 00:00:36.824
+Then build new use cases, and use the data
+for planning, credit rating,
+
+00:00:36.874 --> 00:00:37.754
+and research.
+
+00:00:39.304 --> 00:00:41.418
+Five groups of stakeholders.
+
+00:00:41.468 --> 00:00:43.041
+The Union government.
+
+00:00:43.091 --> 00:00:43.892
+The States.
+
+00:00:43.942 --> 00:00:45.592
+Constitutional bodies:
+
+00:00:45.642 --> 00:00:51.157
+the Comptroller and Auditor General, the
+Controller General of Accounts,
+
+00:00:51.207 --> 00:00:53.321
+and the Finance Commissions.
+
+00:00:53.371 --> 00:00:54.713
+Local governments.
+
+00:00:54.763 --> 00:00:55.563
+And others:
+
+00:00:55.613 --> 00:00:59.582
+banks, vendors, software providers, and
+researchers.
+
+00:01:01.132 --> 00:01:05.079
+The Union Finance Ministry can
+institutionalise the standard,
+
+00:01:05.129 --> 00:01:08.749
+and use it to harmonise accounting methods
+across tiers.
+
+00:01:08.799 --> 00:01:11.108
+It can host a central iFIX instance,
+
+00:01:11.158 --> 00:01:16.153
+require reporting through APIs rather than
+spreadsheets, and reward adopters:
+
+00:01:16.203 --> 00:01:19.626
+recognition in the Budget, higher
+borrowing ceilings,
+
+00:01:19.676 --> 00:01:23.361
+priority disbursal on automated
+utilisation certificates.
+
+00:01:23.411 --> 00:01:26.834
+Ministries can do the same for the schemes
+they fund.
+
+00:01:28.384 --> 00:01:29.897
+States are ground zero.
+
+00:01:29.947 --> 00:01:33.364
+State finance departments gain the most
+visibility.
+
+00:01:33.414 --> 00:01:35.403
+They can run a state instance,
+
+00:01:35.453 --> 00:01:39.957
+give adopting departments priority
+processing and on-time releases,
+
+00:01:40.007 --> 00:01:44.035
+share expert support, and present iFIX
+data with the budget.
+
+00:01:44.085 --> 00:01:48.317
+Line departments, in turn, integrate their
+operational systems,
+
+00:01:48.367 --> 00:01:51.851
+so that every expenditure links to the
+public goods,
+
+00:01:51.901 --> 00:01:54.230
+services and benefits it delivered.
+
+00:01:55.780 --> 00:02:01.002
+Banks can connect their systems to process
+the revenue and expenditure events in
+
+00:02:01.052 --> 00:02:04.034
+real time, the foundation for smart
+contracts.
+
+00:02:04.084 --> 00:02:08.516
+Vendors can submit bills in the standard
+format and get paid faster.
+
+00:02:08.566 --> 00:02:13.986
+Software vendors and system integrators can
+build new applications on the platform,
+
+00:02:14.036 --> 00:02:16.293
+contributed to a shared repository.
+
+00:02:16.343 --> 00:02:20.379
+And researchers can use the data to
+improve fiscal discipline,
+
+00:02:20.429 --> 00:02:25.058
+emergency resourcing, debt strategy, and
+the inclusiveness of benefits.
+
+00:02:26.608 --> 00:02:27.317
+In summary:
+
+00:02:27.367 --> 00:02:31.389
+the challenges across India's PFM
+landscape share one root,
+
+00:02:31.439 --> 00:02:33.391
+fragmented information flows.
+
+00:02:33.441 --> 00:02:37.739
+Standardised fiscal and service events,
+exchanged through iFIX,
+
+00:02:37.789 --> 00:02:42.846
+remove that fragmentation, improve the
+timeliness and reliability of data,
+
+00:02:42.896 --> 00:02:46.987
+and open the door to reform at every stage
+of the lifecycle.
+
+00:02:47.037 --> 00:02:48.782
+The way to begin is small:
+
+00:02:48.832 --> 00:02:50.438
+one exemplar department.
+
+00:02:52.438 --> 00:02:54.540
+That concludes the series.
+
+00:02:54.590 --> 00:02:56.444
+Thank you for watching.

@@ -1,0 +1,193 @@
+1
+00:00:01,000 --> 00:00:01,759
+Part three:
+
+2
+00:00:01,809 --> 00:00:05,582
+the challenges, and the pivotal problem
+behind them.
+
+3
+00:00:07,132 --> 00:00:12,561
+Every mission, scheme and department can
+build its own dashboards and information
+
+4
+00:00:12,611 --> 00:00:13,102
+systems.
+
+5
+00:00:13,152 --> 00:00:17,837
+With so many actors, that means a large
+and growing number of systems,
+
+6
+00:00:17,887 --> 00:00:21,963
+each collecting data in its own format, at
+its own frequency,
+
+7
+00:00:22,013 --> 00:00:24,669
+with limited ways to talk to each other.
+
+8
+00:00:24,719 --> 00:00:25,413
+The result:
+
+9
+00:00:25,463 --> 00:00:29,066
+duplication, inconsistent data, and a
+fragmented view.
+
+10
+00:00:30,616 --> 00:00:33,752
+The coordination problems touch every
+actor.
+
+11
+00:00:33,802 --> 00:00:39,473
+Payments to employees, frontline workers
+and vendors are delayed and uncertain.
+
+12
+00:00:39,523 --> 00:00:45,267
+Unutilised funds sit in many bank accounts
+while states borrow from the markets.
+
+13
+00:00:45,317 --> 00:00:50,408
+Arrears build up out of sight and arrive
+as a fiscal shock at year end.
+
+14
+00:00:50,458 --> 00:00:52,870
+Utilisation certificates are late.
+
+15
+00:00:52,920 --> 00:00:55,767
+Funders cannot link funding to outcomes.
+
+16
+00:00:55,817 --> 00:00:59,750
+And auditors work from incomplete,
+non-digital records.
+
+17
+00:01:01,300 --> 00:01:03,681
+These gaps show up at every stage.
+
+18
+00:01:03,731 --> 00:01:05,754
+Planning becomes incremental:
+
+19
+00:01:05,804 --> 00:01:08,399
+small changes on last year's figures.
+
+20
+00:01:08,449 --> 00:01:11,473
+Legislatures debate on provisional
+numbers.
+
+21
+00:01:11,523 --> 00:01:17,335
+In execution, uncertain fund flow leads to
+float, delayed payments and litigation.
+
+22
+00:01:17,385 --> 00:01:22,769
+Accounting and audit struggle with varying
+practices and systems that do not
+
+23
+00:01:22,819 --> 00:01:23,341
+connect.
+
+24
+00:01:23,391 --> 00:01:28,202
+And nobody tracks the link from
+expenditure to outputs and outcomes.
+
+25
+00:01:29,752 --> 00:01:31,644
+The consequences are visible.
+
+26
+00:01:31,694 --> 00:01:34,523
+Vendors and suppliers struggle to get
+paid;
+
+27
+00:01:34,573 --> 00:01:38,943
+in the most extreme cases, hospitals wait
+for medicines or oxygen.
+
+28
+00:01:38,993 --> 00:01:42,491
+Over time, good vendors stop working with
+government,
+
+29
+00:01:42,541 --> 00:01:46,040
+and those who remain charge a premium or
+cut quality.
+
+30
+00:01:46,090 --> 00:01:50,995
+And because systems do not talk to each
+other, people re-key data by hand:
+
+31
+00:01:51,045 --> 00:01:55,214
+slowly, with errors, and often the citizen
+carries that burden.
+
+32
+00:01:56,764 --> 00:01:58,926
+Underneath are two root causes.
+
+33
+00:01:58,976 --> 00:01:59,640
+Data gaps:
+
+34
+00:01:59,690 --> 00:02:04,635
+records kept on paper, digitised late by
+hand, or not recorded at all.
+
+35
+00:02:04,685 --> 00:02:06,776
+And a lack of standardisation:
+
+36
+00:02:06,826 --> 00:02:12,557
+proprietary formats, the same term meaning
+different things in different systems,
+
+37
+00:02:12,607 --> 00:02:15,554
+no semantic or syntactic interoperability.
+
+38
+00:02:17,104 --> 00:02:20,293
+At the heart of it all is one pivotal
+problem.
+
+39
+00:02:20,343 --> 00:02:24,166
+The flow of money is linked to the flow of
+information.
+
+40
+00:02:24,216 --> 00:02:28,814
+And the flow of information is slow,
+incomplete, and inconsistent.
+
+41
+00:02:30,814 --> 00:02:31,186
+Next:
+
+42
+00:02:31,236 --> 00:02:34,820
+reimagining the flow of fiscal
+information.

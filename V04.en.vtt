@@ -1,0 +1,220 @@
+WEBVTT
+
+00:00:01.000 --> 00:00:01.738
+Part four:
+
+00:00:01.788 --> 00:00:05.126
+reimagining the flow of fiscal
+information.
+
+00:00:06.676 --> 00:00:10.714
+On paper, information moves only as fast
+as the paper does.
+
+00:00:10.764 --> 00:00:16.258
+Digitisation removes that limit, if the
+systems are connected and interoperable.
+
+00:00:16.308 --> 00:00:21.940
+Real-time transactional data is captured
+at source, recorded in a standard format,
+
+00:00:21.990 --> 00:00:27.068
+accessed only with authorisation, and
+shared at set intervals or on query.
+
+00:00:27.118 --> 00:00:30.602
+Personal data is shared only as privacy
+law allows.
+
+00:00:32.152 --> 00:00:38.164
+Every government activity is an operational
+event in some line department system.
+
+00:00:38.214 --> 00:00:42.804
+Every movement of money is a fiscal event
+in a finance system.
+
+00:00:42.854 --> 00:00:44.900
+The idea is to link the two.
+
+00:00:44.950 --> 00:00:46.022
+Take a licence:
+
+00:00:46.072 --> 00:00:49.316
+application, documents, verification,
+issue.
+
+00:00:49.366 --> 00:00:51.785
+Alongside it runs a fiscal chain:
+
+00:00:51.835 --> 00:00:55.902
+a demand for the fee, its receipt, and the
+bank credit.
+
+00:00:55.952 --> 00:01:01.814
+Linked together, they form one standardised,
+observable, non-repudiable record.
+
+00:01:03.364 --> 00:01:08.606
+The paper defines nine standardised fiscal
+events, in three groups.
+
+00:01:08.656 --> 00:01:09.712
+Budget events:
+
+00:01:09.762 --> 00:01:14.688
+plan, estimate, and sanction, which
+releases funds in tranches.
+
+00:01:14.738 --> 00:01:15.873
+Revenue events:
+
+00:01:15.923 --> 00:01:20.060
+demand, receipt, and credit, the bank's
+confirmation.
+
+00:01:20.110 --> 00:01:21.560
+Expenditure events:
+
+00:01:21.610 --> 00:01:23.535
+bill, payment, and debit.
+
+00:01:23.585 --> 00:01:30.170
+Comparing receipt with credit, or payment
+with debit, exposes transfers that failed.
+
+00:01:31.720 --> 00:01:34.614
+Each event carries the same minimum
+fields.
+
+00:01:34.664 --> 00:01:37.010
+Who created it and who approves it.
+
+00:01:37.060 --> 00:01:38.379
+The source of funds.
+
+00:01:38.429 --> 00:01:42.897
+The amount, and whether it is a receipt, a
+debt or an expenditure.
+
+00:01:42.947 --> 00:01:48.031
+Its status, from provisional to audited,
+with the trail of who approved it.
+
+00:01:48.081 --> 00:01:49.743
+And the heads of account.
+
+00:01:49.793 --> 00:01:51.934
+Because the fields are standard,
+
+00:01:51.984 --> 00:01:55.562
+the information means the same thing in
+every system,
+
+00:01:55.612 --> 00:01:58.574
+and reaches authorised viewers in real
+time.
+
+00:02:00.124 --> 00:02:02.850
+Standard events settle what systems say.
+
+00:02:02.900 --> 00:02:05.487
+The platform settles how they connect.
+
+00:02:05.537 --> 00:02:10.969
+Point-to-point integration between every
+pair of systems is slow and expensive,
+
+00:02:11.019 --> 00:02:14.092
+and the web grows with every new
+application.
+
+00:02:14.142 --> 00:02:16.035
+iFIX replaces it with a hub.
+
+00:02:16.085 --> 00:02:21.170
+Each system connects once, to the
+exchange, and through it to every other.
+
+00:02:22.720 --> 00:02:28.375
+iFIX provides a common set of registries,
+standardised fiscal events, and APIs.
+
+00:02:28.425 --> 00:02:30.758
+New systems speak to it directly.
+
+00:02:30.808 --> 00:02:36.318
+Legacy systems connect through adapters
+that translate their data into fiscal
+
+00:02:36.368 --> 00:02:36.823
+events.
+
+00:02:36.873 --> 00:02:38.773
+Analytics are built on top.
+
+00:02:38.823 --> 00:02:42.456
+And every post or read is subject to
+authorisation:
+
+00:02:42.506 --> 00:02:47.438
+the entity must have the mandate, and the
+user the right credentials.
+
+00:02:48.988 --> 00:02:53.699
+Across the federal tiers, iFIX supplements
+coordination and visibility.
+
+00:02:53.749 --> 00:02:57.387
+The Union, the States, districts and local
+governments,
+
+00:02:57.437 --> 00:03:01.276
+and the departments within them, exchange
+the same events,
+
+00:03:01.326 --> 00:03:04.226
+instead of chasing reports from one
+another.
+
+00:03:05.776 --> 00:03:08.586
+iFIX is digital public infrastructure:
+
+00:03:08.636 --> 00:03:11.897
+a minimal shared layer that others build
+on.
+
+00:03:11.947 --> 00:03:14.682
+It follows DIGIT's design principles.
+
+00:03:14.732 --> 00:03:15.434
+Inclusive.
+
+00:03:15.484 --> 00:03:16.488
+Interoperable.
+
+00:03:16.538 --> 00:03:17.090
+Minimal.
+
+00:03:17.140 --> 00:03:21.079
+Open and standards-driven, to prevent
+vendor lock-in.
+
+00:03:21.129 --> 00:03:25.519
+Transparent and traceable, with logs that
+cannot be edited.
+
+00:03:25.569 --> 00:03:31.239
+And unbundled into building blocks, so
+each entity can run its own instance,
+
+00:03:31.289 --> 00:03:34.550
+extend it, and reuse what others have
+built.
+
+00:03:36.550 --> 00:03:37.137
+Next:
+
+00:03:37.187 --> 00:03:39.428
+what iFIX enables.

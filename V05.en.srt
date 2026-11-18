@@ -1,0 +1,284 @@
+1
+00:00:01,000 --> 00:00:02,081
+Part five:
+
+2
+00:00:02,131 --> 00:00:04,118
+what iFIX enables.
+
+3
+00:00:05,668 --> 00:00:08,405
+When systems post fiscal events to iFIX,
+
+4
+00:00:08,455 --> 00:00:13,213
+any authorised viewer can see the status
+of funds across all of them.
+
+5
+00:00:13,263 --> 00:00:16,070
+How much an entity has and where it sits.
+
+6
+00:00:16,120 --> 00:00:20,808
+What it is meant for, and whether each
+expense is planned or ad hoc,
+
+7
+00:00:20,858 --> 00:00:22,968
+committed or awaiting approval.
+
+8
+00:00:23,018 --> 00:00:26,731
+What was spent, what it produced, and who
+approved it.
+
+9
+00:00:26,781 --> 00:00:30,493
+Utilisation certificates can become
+flexible controls,
+
+10
+00:00:30,543 --> 00:00:33,699
+with tranches released on verified
+milestones.
+
+11
+00:00:33,749 --> 00:00:39,482
+And idle balances become visible, so they
+can be reallocated and borrowing reduced.
+
+12
+00:00:41,032 --> 00:00:45,376
+Tax revenue is the product of coverage,
+collection and valuation.
+
+13
+00:00:45,426 --> 00:00:48,013
+Shared registries help expand coverage:
+
+14
+00:00:48,063 --> 00:00:52,069
+a property appears in water, power,
+licence and tax records,
+
+15
+00:00:52,119 --> 00:00:54,368
+so missing entries become visible.
+
+16
+00:00:54,418 --> 00:00:59,506
+Estimate events set collection targets,
+and receipts show who achieves them.
+
+17
+00:00:59,556 --> 00:01:04,508
+And a unified front-end can show a citizen
+everything due on a property or
+
+18
+00:01:04,558 --> 00:01:09,038
+business, so fewer bills go unpaid simply
+because they were missed.
+
+19
+00:01:10,588 --> 00:01:15,074
+Today, estimates and actual revenues or
+expenditures can vary widely,
+
+20
+00:01:15,124 --> 00:01:19,479
+bringing disrupted schedules, skipped
+maintenance, and shock bills:
+
+21
+00:01:19,529 --> 00:01:22,042
+large liabilities that nobody forecast.
+
+22
+00:01:22,092 --> 00:01:25,001
+With revenues and expenses flowing as
+events,
+
+23
+00:01:25,051 --> 00:01:28,025
+surpluses and shortfalls become visible
+early,
+
+24
+00:01:28,075 --> 00:01:33,218
+and forecasting models can correct the
+estimates made at the start of the year.
+
+25
+00:01:34,768 --> 00:01:35,722
+A live example.
+
+26
+00:01:35,772 --> 00:01:40,878
+Punjab's Department of Water Supply and
+Sanitation had no visibility into the
+
+27
+00:01:40,928 --> 00:01:45,030
+electricity and maintenance costs of
+village water committees,
+
+28
+00:01:45,080 --> 00:01:47,106
+nor into their fee collections.
+
+29
+00:01:47,156 --> 00:01:47,843
+The result:
+
+30
+00:01:47,893 --> 00:01:51,258
+large unpaid electricity bills landing at
+year end.
+
+31
+00:01:51,308 --> 00:01:55,074
+The department rolled out a logging app to
+every village.
+
+32
+00:01:55,124 --> 00:01:56,815
+Operators record expenses;
+
+33
+00:01:56,865 --> 00:01:59,561
+bill collectors record fees door to door.
+
+34
+00:01:59,611 --> 00:02:05,052
+iFIX collates these into a real-time dashboard
+of each village's financial health,
+
+35
+00:02:05,102 --> 00:02:09,806
+and integration with the power company is
+adding billing data directly.
+
+36
+00:02:11,356 --> 00:02:15,035
+In a federal system, planning should start
+from the bottom.
+
+37
+00:02:15,085 --> 00:02:19,460
+Too often it is incremental, and plans are
+retrofitted to the numbers.
+
+38
+00:02:19,510 --> 00:02:23,379
+With a department's expenditures and
+outputs recorded in iFIX,
+
+39
+00:02:23,429 --> 00:02:27,615
+last year's actuals become the benchmark
+for next year's estimates,
+
+40
+00:02:27,665 --> 00:02:30,712
+plan and estimate events can cite their
+evidence,
+
+41
+00:02:30,762 --> 00:02:33,746
+and legislatures can debate proposals with
+data.
+
+42
+00:02:35,296 --> 00:02:39,937
+Timely payment of vendors is one of the
+highest-friction areas of PFM.
+
+43
+00:02:39,987 --> 00:02:45,432
+Smart contracts can pay automatically once
+the works system certifies a milestone,
+
+44
+00:02:45,482 --> 00:02:48,716
+cutting the administrative load on finance
+teams.
+
+45
+00:02:48,766 --> 00:02:49,855
+Scrutiny remains:
+
+46
+00:02:49,905 --> 00:02:52,670
+pilots with selected entities and vendors,
+
+47
+00:02:52,720 --> 00:02:57,830
+and payments that only follow the earlier
+plan, estimate and sanction checks.
+
+48
+00:02:59,380 --> 00:03:04,516
+Accounting and audit are where the most
+effort goes into chasing and reconciling
+
+49
+00:03:04,566 --> 00:03:05,294
+information.
+
+50
+00:03:05,344 --> 00:03:09,573
+With events in one place, information is
+searchable and traceable,
+
+51
+00:03:09,623 --> 00:03:11,907
+much of accounting can be automated,
+
+52
+00:03:11,957 --> 00:03:15,083
+and an auditor can sample events and
+verify them.
+
+53
+00:03:15,133 --> 00:03:18,713
+Every change goes through an API, by an
+authorised user,
+
+54
+00:03:18,763 --> 00:03:21,890
+into a log that shows who changed what,
+and when.
+
+55
+00:03:23,440 --> 00:03:26,087
+Perhaps the most transformative
+possibility:
+
+56
+00:03:26,137 --> 00:03:30,869
+linking every expenditure to the outputs
+and outcomes it was meant to achieve.
+
+57
+00:03:30,919 --> 00:03:35,895
+Output and outcome budgets consolidate that
+across projects, entities and schemes,
+
+58
+00:03:35,945 --> 00:03:38,409
+support comparison on cost-effectiveness,
+
+59
+00:03:38,459 --> 00:03:43,190
+and show whether welfare programmes
+reached the people they were designed for.
+
+60
+00:03:45,190 --> 00:03:45,588
+Next:
+
+61
+00:03:45,638 --> 00:03:49,172
+putting the reimagination into practice.
